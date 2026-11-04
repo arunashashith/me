@@ -1,0 +1,1 @@
+The Sandalisa Food City POS image must be copied to this folder as sandalisapos.png.
